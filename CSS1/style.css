@@ -1,0 +1,38 @@
+h1,h4{
+    color: brown;
+}
+ul,ol,li{
+    color: rgb(128, 6, 6);
+}
+ul li{
+    letter-spacing: 5px;
+    margin-top: 5PX;
+}
+ol li{
+    margin-top: 20px;
+}
+p{
+    color:rgb(185, 89, 89);
+}
+b{
+    background-color: yellow;
+}
+a{
+    color:brown ;
+    background-color:yellow;
+    font-size: 20px;
+    font-style: italic;
+
+}
+#cursive,h4{
+    font-style: italic;
+   
+    
+}
+s{
+    font-weight: bold;
+}
+#cursive{
+    text-decoration: underline;
+
+}
